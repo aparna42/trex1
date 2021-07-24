@@ -1,2 +1,1 @@
-# trex1
-Chrome T Rex game
+# Project Template 27
